@@ -8,4 +8,3 @@ button.addEventListener("click", function ()
 {
     alert("You clicked me!");
 })
-//comment to check how repository works
